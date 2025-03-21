@@ -8,7 +8,7 @@ BOT_TOKEN=("8107300017:AAELygetn24lzyNDq5huQ-HsJOssFcPIykw")
 OWNER_USERNAME=("@RAJPUTDDOS")
 
   #Enter your admin id here Get it from @missRose_bot by typing /info
-ADMIN_IDS=("1329951770")
+ADMIN_IDS=("1821595166")
 
 
 
